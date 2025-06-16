@@ -122,11 +122,8 @@ The system tracks vehicle stops, analyzes patterns in violations, searches, arre
 ```bash
 SecureCheck/
 ├── miniproject1.py            # Main Streamlit dashboard app
-├── clean_data.py              # Data cleaning logic
 ├── requirements.txt           # Python dependencies
 ├── /sql                       # SQL query library (optional)
-├── /data                      # Raw or cleaned CSV samples
-├── /screenshots               # Dashboard screenshots
 ├── /docs                      # Project documentation (e.g. Police.docx)
 └── README.md                  # This file
 
