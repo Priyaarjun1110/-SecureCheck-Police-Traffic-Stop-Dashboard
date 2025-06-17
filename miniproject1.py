@@ -527,3 +527,14 @@ if submitted:  # If the form is submitted
 # Footer
 st.markdown("---")  # Footer separator
 st.markdown("Made with ❤️ by SecureCheck Team") # Footer message
+
+
+
+
+ 
+
+
+
+
+
+
